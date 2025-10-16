@@ -37,8 +37,10 @@ workspaces = {
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/dreamlink_web_portal/css/dreamlink_web_portal.css"
-# app_include_js = "/assets/dreamlink_web_portal/js/dreamlink_web_portal.js"
+app_include_css = "/assets/dreamlink_web_portal/css/dreamlink_web_portal.css"
+app_include_js = [
+    "/assets/dreamlink_web_portal/js/dreamlink_web_portal.bundle.js"
+]
 
 # include js, css files in header of web template
 # web_include_css = "/assets/dreamlink_web_portal/css/dreamlink_web_portal.css"
