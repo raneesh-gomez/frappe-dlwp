@@ -10,6 +10,18 @@ app_license = "mit"
 
 # required_apps = []
 
+# Workspace
+workspaces = {
+    "DreamLink": {
+        "category": "Modules",
+        "icon": "users",
+        "module": "Dreamlink Web Portal",
+        "type": "module",
+        "link": "dreamlink-web-portal",
+        "label": "DreamLink Portal"
+    }
+}
+
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
 # 	{
