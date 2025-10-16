@@ -24,6 +24,13 @@
  "quick_lists": [],
  "roles": [],
  "sequence_id": 28.0,
- "shortcuts": [],
+ "shortcuts": [
+    {
+      "doc_view": "",
+      "label": "DreamLink Portal",
+      "link_to": "/app/dreamlink-web-portal",
+      "type": "Page"
+    }
+  ],
  "title": "DreamLink"
 }
