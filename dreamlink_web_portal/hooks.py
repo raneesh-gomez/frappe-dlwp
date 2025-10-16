@@ -14,7 +14,7 @@ app_license = "mit"
 workspaces = {
     "DreamLink": {
         "category": "Modules",
-        "icon": "users",
+        "icon": "map",
         "module": "Dreamlink Web Portal",
         "type": "module",
         "link": "dreamlink-web-portal",
