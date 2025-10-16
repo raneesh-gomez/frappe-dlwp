@@ -6,6 +6,7 @@ export function App() {
     <div className="m-4">
       <h3>{dynamicMessage}</h3>
       <h4>Start editing test dreamlink_web_portal/public/js/dreamlink_web_portal/App.jsx</h4>
+      <p>This is a test paragraph</p>
     </div>
   );
 }
